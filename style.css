@@ -50,3 +50,24 @@
 	background-color: orange;
 	border: 0px;
 }
+.scared-ghost {
+	background-color: aqua;
+}
+
+.text {
+	display: flex;
+	width: 560px;
+	justify-content: space-between;
+}
+
+.play-again,
+.play-again:link,
+.play-again:visited {
+	display: none;
+	text-decoration: none;
+	background-color: blue;
+	color: white;
+	padding: 2px 5px;
+	height: 20px;
+	margin-top: 15px;
+}
