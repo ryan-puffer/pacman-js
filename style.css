@@ -1,3 +1,5 @@
+/* game board layout */
+
 body {
 	background-color: black;
 }
@@ -36,6 +38,9 @@ body {
 	border-radius: 10px;
 }
 
+/* 
+character styles */
+
 .pac-man {
 	background-color: yellow;
 	border-radius: 50%;
@@ -63,6 +68,8 @@ body {
 .scared-ghost {
 	background-color: aqua;
 }
+
+/* typography */
 
 .text {
 	display: flex;
